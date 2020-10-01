@@ -1,2 +1,2 @@
 # ArgScraper
-Mines deliberation graphs from Debateapedia
+Mines deliberation graphs from Debatepedia
